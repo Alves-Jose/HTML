@@ -1,0 +1,13 @@
+.hover-button{
+    padding: 10px 20px;
+    background-color: purple;
+    color: black;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.hover-button:hover {
+    background-color: pink;
+}
+
